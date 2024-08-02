@@ -643,8 +643,8 @@ form button input {
 
     .card-video{
         display: flex ;
-        align-items: center;
         max-width: 100%;
+        margin-right: 25%;
     }    
 
    

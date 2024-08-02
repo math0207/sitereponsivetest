@@ -56,12 +56,12 @@
         margin-left: 25%;
         width: 100%;
         max-width: 200px;
-        height: auto;
+        height: 100px;
         
     }
 
     .main__info p {
-        font-size: 16px;
+        font-size: 13px;
         margin: 10px 0 10px;
        
     }
